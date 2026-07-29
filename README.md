@@ -4,16 +4,14 @@ Full-Stack Developer | JavaScript, TypeScript & Python
 
 🎓 Graduated in Systems Analysis and Development (UNIME)
 🌍 Based in Salvador, Brazil | Open to remote freelance work
-📫 [LinkedIn](#) · [Email](#)
+📫 [LinkedIn](https://www.linkedin.com/in/gabriel-soares-devgtechg/) · [Email](gabrielsoares.live20@gmail.com)
 
 ---
 
 ## 🚀 About Me
 
 - 💻 Building web apps and tools with JavaScript/TypeScript and Python
-- 🌱 Currently improving my skills in [coloque aqui o que está estudando]
 - 🎯 Looking for freelance/remote opportunities with international clients
-- ⚡ Fun fact: [algo pessoal, opcional]
 
 ---
 
@@ -35,32 +33,23 @@ Full-Stack Developer | JavaScript, TypeScript & Python
 ### 💰 [myfinance](https://github.com/devgtech01/myfinance)
 Personal finance tracker built with JavaScript — helps users manage income, expenses, and budgeting.
 🛠️ Tech: JavaScript
-> ⚠️ **Ajustar:** confirme o que o projeto realmente faz (é web app? CLI? tem tela?) e adicione um link de demo ao vivo se possível.
 
 ### 🧾 [Leitor-de-Boleto](https://github.com/devgtech01/Leitor-de-Boleto)
 Python tool that reads and extracts data from Brazilian "boleto" bank slips (barcode/payment data), automating manual data entry.
 🛠️ Tech: Python
-> ⚠️ **Ajustar:** confirme se usa OCR, leitura de código de barras, ou outra técnica — isso é um diferencial técnico interessante para destacar.
-
-### 🍽️ [GbRestaurante](https://github.com/devgtech01/GbRestaurante)
-Restaurant management/ordering system — [descreva aqui: é sistema de pedidos? cardápio digital? gestão de mesas?]
-🛠️ Tech: [preencher]
-> ⚠️ **Ajustar:** este repo está sem descrição e sem linguagem detectada no GitHub. Preencha o que o sistema faz.
 
 ### 🚌 [site-VemDeBus](https://github.com/devgtech01/site-VemDeBus)
-Website built with PHP — [descreva aqui: é sobre transporte público? consulta de horários de ônibus?]
+Website built with PHP — It is a bus ticket purchasing website with API integration for payment checkout.
 🛠️ Tech: PHP
-> ⚠️ **Ajustar:** o nome sugere algo relacionado a transporte público/ônibus, mas confirme o propósito real do site.
 
 ### 📧 [Maily_Aurex](https://github.com/devgtech01/Maily_Aurex)
-Email management web app — [descreva aqui o que o usuário consegue fazer: enviar, organizar, ou gerenciar e-mails/campanhas?]
+Creation of a professional portfolio landing page
 🛠️ Tech: React, TypeScript, Vite, Tailwind CSS, shadcn/ui
-> ⚠️ **Ajustar:** confirme o propósito exato do projeto e adicione um link de demo ao vivo se estiver publicado (Vercel/Netlify).
 
 ### 🧑‍💻 [gabrielsoares](https://github.com/devgtech01/gabrielsoares)
-[descreva aqui: é seu portfólio pessoal? um projeto de estudo em TypeScript?]
+Creation of a professional portfolio landing page
 🛠️ Tech: TypeScript
-> ⚠️ **Ajustar:** o nome do repo sugere que pode ser um portfólio pessoal — se for, vale linkar o site ao vivo aqui.
+
 
 <!--
 DICA: escolha só os 3-4 melhores projetos para deixar aqui.
