@@ -76,7 +76,7 @@ Para cada um, o ideal é ter:
 
 Most used languages across my public repositories:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devgtech01&layout=compact&langs_count=8&theme=default)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=devgtech01&layout=compact&langs_count=8&theme=default)
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=devgtech01&show_icons=true&theme=default)
 
